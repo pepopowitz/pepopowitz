@@ -1,76 +1,19 @@
-```
-                                                 .`                   
-          `  `                            .'` `~~iw'                  
-                                    ``      ~{KwnhqL                  
-                    z\;=<_~~                ,wZIyZY`                  
-                    YESmwE=                 !*U7zf~                   
-                   .*77zmc                  `i\zZm;                   
-                   ~Lm{Lx,                  `^|zL|,                   
-                  `~>7L~`                    i*|^~,                   
-                  _;*<;,```.''_!|?>^;!^~.,^^!?T!,``                   
-                 `',,,^^*LfJ|cIyjJfjx7L?+*ic<!::,,'                   
-                 ~!^;!7?*!;^?7fyfTtayIJ*>++!; 'fIJL_                  
-                '~;=7mqLx7=;<?i7yaz{YxzT\L;_` ;T|L<~                  
-                ;^*7JmUIiL*\i|i7JYyT|nY>|L;,..:=!~~,                  
-               `;;;;^zqKuzL+|iz}J*7nTTz!=^,,'`~i<;_'                  
-               `=>!;*jNWyfju||7i*^:n,;;,',,._,^\7=~.                  
-                !;;=7yhhIiiz\x7r7\!;`,, _z|;,_ii?^`                   
-                 ;r<?yjjIT?i|L\~;*Lh!,.`|=;:~ic=.                     
-                  `;*SEafyJ=;;;^;,';<~``` ,;!,                        
-                   '?xywjPPJ+;~:'''':z^,  ,'                          
-                    _*zYjny<;~,;,.    '  ```                          
-                     ~*L|\*=>;,'``      `'.             _                                    
-                     :*=+?<<^,'''.      `.'            | |__   __ _ _ __   __ _              
-                     :^++>^~:,'',: `:'  `'`            | '_ \ / _` | '_ \ / _` |             
-                     *LLiL=>!,`.,` ``` ``''`           | | | | (_| | | | | (_| |             
-                     ^\|?^=^;~.`._`.``  ```            |_| |_|\__,_|_| |_|\__, |             
-                    `\\i|\iL+~:~_,.'`  ``...           (_)_ __            |___/              
-                    ~L\Lr=^;;+^;;'``.'```````          | | '_ \                              
-                   `+*>r!r=^!;;~~'.''_.`'.',,.         | | | | |                             
-                   ;<|?*<!^~,''~;~,..'`.,'~~,,.        |_|_|_|_|                _            
-                  `===^!;^;^;~~~,~,,,``'`.,,:,.        | |_| |__   ___ _ __ ___| |           
-                   !|\\i\L;:'`.'~~',..''`.,,:'`        | __| '_ \ / _ \ '__/ _ \ |           
-                   |i77c|*=;'```''',,.'` .',,'`        | |_| | | |  __/ | |  __/_|           
-                   ~||77<^~,`````''````'``,,''`         \__|_| |_|\___|_|  \___(_)           
-                    iz7|\*~'` `',,..''`'`''''.`                       
-                     ^77|*!'     ''..'~~_~.``                         
-                      ^7\<>~'     ```,,,''``','`                      
-                        ~ir^^;`     ._,'``',,.                        
-                         \7+';!^'   .~'.'''','''`                     
-                         =7i|L'`    `',_,',~~;~,`                     
-                         'iT+;.',`   ~^^~~^=;~'.'                     
-                          `?||<^,,;,`^7?rr;r;'````                    
-                           `||+~~,```'LT\*L+_'``                      
-                             ;*+^,'!~,;rit!~:.  `TL 'Tmc              
-                              ,<|;^^,;=+'^;;~~,,LXXbDR6omwz           
-                               `==<!;?=;iu7>\L+7foXXkUqd6f~           
-                                ;+=}K%mjPDILj7*ixmUha5KDS|'           
-                                ,7tUSKa7{u_~~~,,_~_''                 
-                                 Juc{ZyT!`                            
-                                 .?*=!!,.                             
-                                  ,ct7ti=;'                           
-                                   'yymyj{7i;                         
-                                    ,;Swmymwwf+                       
-                                       .^im6hUhPf!                    
-                                           ,?abKqKkT`                 
-                                               '*SUKU7`               
-                                                   `;+;               
-```
+I'm an engineer at [Artsy](https://github.com/artsy). I mostly work on some of our [React](https://github.com/artsy/force), [React Native](https://github.com/artsy/eigen), and [Rails](https://github.com/artsy/convection) apps. I [write for our blog](https://artsy.github.io/author/steve-hicks/). I'm building [some tutorials to help new Artsy engineers learn Relay](https://github.com/artsy/relay-workshop).
 
-I'm an engineer at [Artsy](https://github.com/artsy). I mostly work on some of our [React](https://github.com/artsy/force), [React Native](https://github.com/artsy/eigen), and [Rails](https://github.com/artsy/convection) apps. I also [write for our blog](https://artsy.github.io/).
+I [lead workshops](https://www.stevenhicks.me/workshops/building-your-first-react-app/), [speak at meetups and conferences](https://www.youtube.com/watch?v=3XscuivvUzI), and [write for my own blog](https://www.stevenhicks.me/articles/). I'm building [a log for tracking my run, bike, and swim training](https://github.com/pepopowitz/pendulina).
 
-I also [lead workshops](https://www.stevenhicks.me/workshops/building-your-first-react-app/), [speak at meetups and conferences](https://www.youtube.com/watch?v=3XscuivvUzI), and [write for my own blog](https://www.stevenhicks.me/articles/).
+[Here's a more detailed list of my work](https://gist.github.com/pepopowitz/ff826cb0cf8931da8c13a03e433cb4df).
 
-And then I like to go for a long trail run 🏃‍♂️.
+On weekends I like to go for a long trail run 🏃‍♂️ one day and a long bike ride 🚴‍♂️ the other day.
 
 ---
 
-- 🔭 I’m currently working on running trails for 5 hours straight.
-- 🌱 I’m currently learning how to paint with watercolors.
-- 💬 Ask me about React, JavaScript, or trail running.
+- 🔭 I’m currently working on [a very chill training journal](https://github.com/pepopowitz/pendulina).
+- 🌱 I’m currently learning [RedwoodJS](https://redwoodjs.com/).
+- 💬 Ask me about React, JavaScript, [crafting a solid PR](https://artsy.github.io/blog/2020/08/11/improve-pull-requests-by-including-valuable-context/), trail running, or painting with watercolors.
 - 📫 How to reach me: [On Twitter](https://twitter.com/pepopowitz) or [find links on my website](https://www.stevenhicks.me/about/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I took 2nd place in my 2nd grade school district spelling bee and haven't gotten over it.
+- ⚡ Fun fact: I took 2nd place in my 2nd grade school district spelling bee and still haven't gotten over the loss.
 
 ---
 
