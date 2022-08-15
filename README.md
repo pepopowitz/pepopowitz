@@ -13,7 +13,9 @@
       ██████████████████████████      
 
 
-I'm an engineer at [Artsy](https://github.com/artsy). I mostly work on some of our [React](https://github.com/artsy/force), [React Native](https://github.com/artsy/eigen), and [Rails](https://github.com/artsy/convection) apps. I [write for our blog](https://artsy.github.io/author/steve-hicks/). I'm building [some tutorials to help new Artsy engineers learn Relay](https://github.com/artsy/relay-workshop). I host some episodes of [Artsy Engineering Radio](https://open.spotify.com/show/0gJYxpqN6P11dbjNw8VT2a?si=L4TWDrQETwuVO6JR1SOZTQ&nd=1).
+I'm a Developer Experience Engineer at [Camunda](https://github.com/camunda). I mostly work on [our documentation infrastructure](https://github.com/camunda/camunda-platform-docs). 
+
+I used to [write for Artsy's engineering blog](https://artsy.github.io/author/steve-hicks/). I built [some tutorials to help new Artsy engineers learn Relay](https://github.com/artsy/relay-workshop). I hosted some episodes of [Artsy Engineering Radio](https://open.spotify.com/show/0gJYxpqN6P11dbjNw8VT2a?si=L4TWDrQETwuVO6JR1SOZTQ&nd=1).
 
 I [lead workshops](https://www.stevenhicks.me/workshops/building-your-first-react-app/), [speak at meetups and conferences](https://www.youtube.com/watch?v=3XscuivvUzI), and [write for my own blog](https://www.stevenhicks.me/articles/). I'm building [a log for tracking my run, bike, and swim training](https://github.com/pepopowitz/pendulina).
 
