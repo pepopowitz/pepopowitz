@@ -15,20 +15,23 @@
 
 I'm a Developer Experience Engineer at [Camunda](https://github.com/camunda). I mostly work on [our documentation infrastructure](https://github.com/camunda/camunda-platform-docs). 
 
+I stream with my friend [@jonallured](https://github.com/jonallured) at [youtube.com/@2RadDads](https://youtube.com/@2RadDads). We built [this Chrome new tab page](https://github.com/pepopowitz/doing-a-good-job) that allows me to read inspiring messages every time I open a browser.
+
+I made a podcast called [A Developer Experience Podcast](https://anchor.fm/a-developer-experience) -- it's less about the field of Developer Experience, and more about the experience of being a developer.
+
 I used to [write for Artsy's engineering blog](https://artsy.github.io/author/steve-hicks/). I built [some tutorials to help new Artsy engineers learn Relay](https://github.com/artsy/relay-workshop). I hosted some episodes of [Artsy Engineering Radio](https://open.spotify.com/show/0gJYxpqN6P11dbjNw8VT2a?si=L4TWDrQETwuVO6JR1SOZTQ&nd=1).
 
-I [lead workshops](https://www.stevenhicks.me/workshops/building-your-first-react-app/), [speak at meetups and conferences](https://www.youtube.com/watch?v=3XscuivvUzI), and [write for my own blog](https://www.stevenhicks.me/articles/). I'm building [a log for tracking my run, bike, and swim training](https://github.com/pepopowitz/pendulina).
+I've [led workshops](https://www.stevenhicks.me/workshops/building-your-first-react-app/), [spoken at meetups and conferences](https://www.youtube.com/watch?v=3XscuivvUzI), and I sometimes [write for my own blog](https://www.stevenhicks.me/articles/). 
 
-[Here's a more detailed list of my work](https://gist.github.com/pepopowitz/ff826cb0cf8931da8c13a03e433cb4df).
+[Here's a more detailed list of my work](https://stevenhicks.me/portfolio).
 
 On weekends I like to go for a long trail run 🏃‍♂️ one day and a long bike ride 🚴‍♂️ the other day.
 
 ---
 
-- 🔭 I’m currently working on [a very chill training journal](https://github.com/pepopowitz/pendulina).
-- 🌱 I’m currently learning [RedwoodJS](https://redwoodjs.com/).
+- 🔭 I’m currently working on [a Chrome new tab page that shows a nice picture and a nice message](https://github.com/pepopowitz/doing-a-good-job).
 - 💬 Ask me about React, JavaScript, [crafting a solid PR](https://artsy.github.io/blog/2020/08/11/improve-pull-requests-by-including-valuable-context/), trail running, or painting with watercolors.
-- 📫 How to reach me: [On Twitter](https://twitter.com/pepopowitz) or [find links on my website](https://www.stevenhicks.me/about/)
+- 📫 How to reach me: visit [my Where page](https://stevenhicks.me/where)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I took 2nd place in my 2nd grade school district spelling bee and still haven't gotten over the loss.
 
