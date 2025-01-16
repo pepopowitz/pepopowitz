@@ -15,7 +15,7 @@
 
 I'm a Developer Experience Engineer at [Camunda](https://github.com/camunda). I mostly work on [our documentation infrastructure](https://github.com/camunda/camunda-platform-docs). 
 
-I stream with my friend [@jonallured](https://github.com/jonallured) at [youtube.com/@2RadDads](https://youtube.com/@2RadDads). We built [this Chrome new tab page](https://github.com/pepopowitz/doing-a-good-job) that allows me to read inspiring messages every time I open a browser.
+I stream with my friend [@jonallured](https://github.com/jonallured) and others at [youtube.com/@FriendsWithCode](https://youtube.com/@FriendsWithCode). We built [this Chrome new tab page](https://github.com/pepopowitz/doing-a-good-job) that allows me to read inspiring messages every time I open a browser.
 
 I made a podcast called [A Developer Experience Podcast](https://anchor.fm/a-developer-experience) -- it's less about the field of Developer Experience, and more about the experience of being a developer.
 
